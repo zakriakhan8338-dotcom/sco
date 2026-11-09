@@ -1,0 +1,260 @@
+# TOON KICKERS — 3D CARTOON FOOTBALL GAME
+
+Create a complete, playable browser-based football game called **TOON KICKERS**.
+
+The game features two cartoon football teams competing in exciting matches. Use medium-quality 3D cartoon graphics, smooth character animations, simple controls, intelligent AI opponents, and a beautiful gaming website.
+
+The game must be genuinely playable, not just a static website.
+
+## 1. Game Identity
+
+Name: TOON KICKERS
+
+Tagline: TWO TEAMS. ONE GOAL. TOTAL FOOTBALL FUN.
+
+Color palette:
+- Stadium Green: #168447
+- Deep Navy: #14213D
+- Bright Orange: #FF8C42
+- Sky Blue: #55B8E8
+- White: #FFFFFF
+
+Use rounded typography, clean layouts, attractive buttons, colorful cartoon characters, and beautiful stadium environments.
+
+## 2. Main Website Homepage
+
+Create a beautiful gaming homepage with:
+
+- Large cartoon football stadium background.
+- Two opposing teams facing each other.
+- Large heading: LET THE MATCH BEGIN!
+- Play Now button.
+- Select Team button.
+- Game Modes button.
+- Leaderboard button.
+
+Add animated footballs, floating stars, subtle motion effects, and a friendly sports atmosphere.
+
+## 3. Two Football Teams
+
+Create two original cartoon teams.
+
+TEAM BLUE — SKY STRIKERS
+- Blue jerseys.
+- White shorts.
+- Blue football socks.
+- Energetic and fast players.
+
+TEAM ORANGE — FIRE KICKERS
+- Orange jerseys.
+- Black shorts.
+- Orange socks.
+- Strong and competitive players.
+
+Each team should have:
+- 1 goalkeeper.
+- 4 defenders.
+- 3 midfielders.
+- 3 attackers.
+
+Create 11 players per team with different faces, hairstyles, body shapes, and player numbers.
+
+Use consistent medium-quality 3D cartoon models. Players should look friendly, expressive, and recognizable.
+
+## 4. Actual Football Gameplay
+
+Create a fully playable football match.
+
+The player controls Team Blue while Team Orange is controlled by AI.
+
+Gameplay features:
+- Football passing.
+- Shooting.
+- Dribbling.
+- Tackling.
+- Goalkeeper saves.
+- Player switching.
+- Ball possession.
+- Corner kicks.
+- Goal kicks.
+- Throw-ins.
+- Goals and match celebrations.
+
+Make player movement smooth and responsive.
+
+## 5. Controls
+
+Desktop controls:
+
+- W / Up Arrow: Move forward.
+- S / Down Arrow: Move backward.
+- A / Left Arrow: Move left.
+- D / Right Arrow: Move right.
+- Space: Shoot.
+- J: Pass.
+- K: Sprint.
+- L: Tackle.
+- Tab: Switch player.
+
+Mobile controls:
+
+- Virtual joystick on the left.
+- Shoot button.
+- Pass button.
+- Sprint button.
+- Tackle button.
+- Switch player button.
+
+Add a short tutorial to teach new players the controls.
+
+## 6. AI Football System
+
+Make the opposing team intelligent.
+
+AI players should:
+- Chase the ball.
+- Pass to teammates.
+- Move into open spaces.
+- Defend their goal.
+- Attempt shots.
+- Tackle the opponent.
+- Position themselves strategically.
+
+When the player has the ball, nearby opponents should try to defend and take possession.
+
+## 7. Goalkeeper System
+
+Create an animated goalkeeper for both teams.
+
+Features:
+- Jump left and right.
+- Catch the ball.
+- Block powerful shots.
+- Dive towards the ball.
+- Kick the ball away.
+- Celebrate successful saves.
+
+## 8. Stadium Design
+
+Create a beautiful cartoon football stadium with:
+- Green football pitch.
+- Goalposts and nets.
+- Stadium audience.
+- Colorful flags.
+- Scoreboard.
+- Stadium lights.
+- Animated spectators.
+- Day and evening stadium themes.
+
+Add a second smaller street-football ground as an unlockable environment.
+
+## 9. Match Interface
+
+Display:
+- Team Blue score.
+- Team Orange score.
+- Match timer.
+- Current possession.
+- Player name.
+- Pause button.
+- Match status.
+
+Start matches with a countdown: 3, 2, 1, KICK OFF!
+
+When a goal is scored:
+- Show a goal celebration.
+- Animate the scoring player.
+- Play crowd cheering sounds.
+- Update the scoreboard.
+- Restart from the center.
+
+## 10. Game Modes
+
+QUICK MATCH:
+Play against AI in a short football match.
+
+PENALTY SHOOTOUT:
+Take penalty shots against the goalkeeper.
+
+PRACTICE MODE:
+Practice shooting, passing, and dribbling.
+
+TOURNAMENT:
+Compete in a small knockout competition.
+
+TWO-PLAYER MODE:
+Allow two people to play locally using different keyboard controls.
+
+## 11. Character Customization
+
+Allow players to customize:
+- Jersey colors.
+- Player hairstyles.
+- Football boots.
+- Player numbers.
+- Team names.
+- Goalkeeper uniforms.
+
+Add a collection of unlockable cartoon football characters.
+
+## 12. Rewards & Achievements
+
+Add:
+- Coins for winning matches.
+- Goals scored achievements.
+- Hat-trick achievement.
+- Clean sheet achievement.
+- Tournament trophies.
+- Daily rewards.
+- Player experience levels.
+- Unlockable stadiums and kits.
+
+## 13. Sound Effects
+
+Include:
+- Football kicking sounds.
+- Running sounds.
+- Crowd cheering.
+- Goal celebrations.
+- Whistle sounds.
+- Goalkeeper saves.
+- Background music.
+
+## 14. Additional Website Pages
+
+Create a complete website with:
+1. Home
+2. Play Game
+3. Select Team
+4. Game Modes
+5. Stadiums
+6. Player Customization
+7. Tournament
+8. Leaderboard
+9. My Profile
+10. Settings
+11. Help and Controls
+
+Make navigation functional and consistent.
+
+## 15. Technical Requirements
+
+- Use HTML, CSS, JavaScript and Three.js.
+- Build actual 3D football gameplay.
+- Use medium-quality optimized cartoon 3D models.
+- Implement ball physics and player movement.
+- Implement AI-controlled opponents and teammates.
+- Add functional shooting, passing, tackling, and goalkeeping.
+- Support desktop and mobile controls.
+- Save basic game progress using local storage.
+- Ensure smooth performance on normal computers.
+
+Do not create decorative buttons or a nonfunctional game demo.
+
+## FINAL GOAL
+
+Create an enjoyable, medium-complexity 3D cartoon football game where two complete teams play against each other.
+
+The first version must have two teams, 22 players, a playable football pitch, AI opponents, ball movement, shooting, passing, goalkeeping, a scoreboard, and match results.
+
+Prioritize working football gameplay, attractive cartoon characters, and smooth performance over complicated graphics.
